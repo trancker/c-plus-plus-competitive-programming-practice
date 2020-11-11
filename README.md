@@ -1,1 +1,1 @@
-# c-practice
+# C++ Competitive Programming
