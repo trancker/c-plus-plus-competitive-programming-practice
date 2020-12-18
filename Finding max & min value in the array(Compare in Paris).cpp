@@ -1,8 +1,8 @@
-#Finding maximum and minimum element in an array
-# method 3: Compare in Paris
+//Finding maximum and minimum element in an array
+//method 3: Compare in Paris
 
 
-#include <iostream>
+#include<iostream>
 
 using namespace std;
 
