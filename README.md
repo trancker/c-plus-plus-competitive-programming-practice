@@ -10,3 +10,4 @@ I have not only solve the solution but also find the optimal solution for each p
 You need to add the solution which are helpful to prepare for competitive programming or the solution that is been asked in the competitive programming.
 
 To work on this contribution you just need to fork or add new file  to provide your solution to us.
+Contributor are always welcome🥇🥇
